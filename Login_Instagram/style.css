@@ -59,8 +59,9 @@ body{
     min-height: 19rem;
     
 }
-.instagram-clogo{
+.instagram-logo{
     height: 3rem;
+    margin-bottom: 20px;
 }
 .profile-foto img{
     border-radius: 50%;
@@ -69,6 +70,7 @@ body{
 .instagram-login{
     background-color: #0095f6;
     color: white;
+    margin-top: 15px;
     padding: 8px;
     border-radius: 4px;
 }
