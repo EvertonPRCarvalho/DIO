@@ -1,0 +1,19 @@
+body{
+    color: rgb(111, 111, 111);
+}
+
+
+.counter{
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 50px;
+    border: 1px solid lightgray;
+    border-radius: 50%;
+}
+
+span{
+    font-size: 28px;
+    margin: 0 10px;
+}
