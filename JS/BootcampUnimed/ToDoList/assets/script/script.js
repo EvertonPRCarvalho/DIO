@@ -5,7 +5,6 @@ function removeExemplo(){
     }//<--Essa condição elimina o exemplo que é listado para o usuário.
 }
 
-
 function adicionar() {
 
     var tarefa = document.getElementById("new-checkbox").value;
