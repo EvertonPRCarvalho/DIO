@@ -37,7 +37,6 @@ header{
 header .list-items{
     display: flex;
     max-width: 100%;
-    max-width: 260px;
     align-items: center;
     
     

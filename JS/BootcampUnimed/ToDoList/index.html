@@ -9,29 +9,14 @@
 </head>
 <body>
     <div class="container">
-
-        <h1 class="titulo">To-do list</h1>
-        
+        <h1 class="titulo">To-do list</h1>       
         <div class="content">
-
-            <input class="new-checkbox" type="text" name="Inserir" placeholder="Digite aqui sua tarefa">
-            <button class="submit" type="submit" onclick="newContent()"><b>Adicionar</b></button>
-            <label class="list">
-                <div class="work1">
-                    <input type="checkbox" class="checkbox"> Tarefa 01 a ser feita
-                </div>
-            </label>
-            <label class="list">
-                <div class="work1">
-                    <input type="checkbox" class="checkbox"> Tarefa 02 a ser feita
-                </div>
-            </label>
-
+            <input id="new-checkbox" type="text" name="Inserir" placeholder="Digite aqui sua tarefa">
+            <button class="submit" type="submit" onclick="adicionar()">Adicionar</button>
+            <br>
+            <ul id="lista"></ul>
         </div>
-        
     </div>
-
-
     <script src="./assets/script/script.js"></script>
 </body>
 </html>

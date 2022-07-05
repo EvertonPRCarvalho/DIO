@@ -6,17 +6,17 @@
 h1{
     font-size: 32px;
 }
+ul{
+    list-style: none;
+}
 .container{
     display: flex;
     flex-direction: column;
     text-align: center;
     margin: auto;
     width: 400px;
-    border: 1px solid black;
-    background-color: azure;
 }
 .content{
-    border: 1px solid;
     text-align: start;
     justify-content: space-between;
 }
@@ -37,4 +37,9 @@ h1{
     background-color:#1C74E9;
     border:1px solid #1C74E9;
     border-radius: 5px;
+}
+
+:checked + .checkbox{
+    text-decoration: line-through;
+    color: gray;
 }
