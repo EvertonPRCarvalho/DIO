@@ -1,19 +1,3 @@
-var x = document.getElementsByClassName("checkbox");
-var y = document.createElement("input.checkbox");
-
-var lista = document.getElementsByClassName("lista_tarefas").innerHTML;
-var seuTextoAqui = "TESTE";
-function newContent(){
-    lista = lista + "<li>" + seuTextoAqui +"</li>";
-    document.getElementsByClassName("lista_tarefas").innerHTML = lista;
-}
-function verify(x){
-    return x.setAttribute("checked", "checked")
-}
-function addWork(){
-
-}
-
 function removeExemplo(){
     var node = document.getElementById("exemplo"); 
     if(node.parentNode){ 
