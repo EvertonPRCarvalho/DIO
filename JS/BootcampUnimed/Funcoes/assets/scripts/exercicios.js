@@ -39,3 +39,9 @@ let pessoa = {
 
 console.log(calculaIdade.call(pessoa, 5));
 console.log(calculaIdade.apply(pessoa, [5]));
+
+let diasT = 200;
+let hExtra = 100;
+
+let temp =
+console.log(((diasT > 199) && (hExtra>100)));
