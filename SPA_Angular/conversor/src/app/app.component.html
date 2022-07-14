@@ -1,0 +1,22 @@
+<div class="container alert alert-light">
+  <h1>Conversor de Frases</h1>
+  <p>Escrever um texto bonito</p>
+  <p>explicando o que é a ferramenta</p>
+  <div class="container border border-primary alert alert-primary rounded w-100 p-3">
+    <form>
+      <label>
+        Digite sua frase:
+        <input [(ngModel)]="fraseDoUsuario" name="frase" type="text" placeholder="FRASE DE EXEMPLO!">
+      </label>
+    </form>
+    <div style="max-width: 350px; display: flex; justify-content: space-between; margin-top: 10px;">
+      <button (click)="converterParaMaiuscula()" class="btn btn-primary">MAIÚSCULA</button>
+      <button (click)="converterParaMinuscula()" class="btn btn-primary">minúscula</button>
+      <button (click)="converterParaMesclar()" class="btn btn-primary">MeScLaR</button>
+    </div>
+  </div>
+  <div class="container border border-primary alert alert-primary rounded w-100 p-3">
+    <p id="resultado">{{ resultado }}</p>
+  </div>
+</div>
+  <router-outlet></router-outlet>

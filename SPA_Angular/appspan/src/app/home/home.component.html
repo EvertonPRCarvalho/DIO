@@ -1,0 +1,36 @@
+<mat-toolbar>
+  <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>My App</span>
+  <span class="example-spacer"></span>
+  <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+    <mat-icon>favorite</mat-icon>
+  </button>
+  <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+    <mat-icon>share</mat-icon>
+  </button>
+</mat-toolbar>
+
+<div>
+  <spa-aluno [valorInicial]="valor"> </spa-aluno>
+
+  <button (click)="mudarValor()" class="btn btn-primary" >MudarValor</button>
+  <button (click)="reiniciarValor()" class="btn btn-danger">Reiniciar Valor</button>
+  <button (click)="exibirTabela()" class="btn btn-success">Exibir Tabela</button>
+</div>
+
+<table *ngIf="exibeTabela" class="table">
+  <tr>
+    <th>Nome</th>
+    <th>Idade</th>
+    <th>Email</th>
+    <th>Curso</th>
+  </tr>
+  <tr *ngFor="let aluno of listaAlunos">
+    <th>{{ aluno.nome }}</th>
+    <th>{{ aluno.idade }}</th>
+    <th>{{ aluno.email }}</th>
+    <th>{{ aluno.curso }}</th>
+  </tr>
+</table>
