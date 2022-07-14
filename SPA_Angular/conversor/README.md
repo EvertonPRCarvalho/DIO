@@ -1,12 +1,12 @@
-#Aplicativo Desenvolvido com Angular
+# Aplicativo Desenvolvido com Angular
 
-##Conversão Entre Letras Maiúsculas, Minúscolas e Uma Mescla Entre As Duas
+## ConversÃ£o Entre Letras MaiÃºsculas, MinÃºscolas e Uma Mescla Entre As Duas
 
-Este é meu primeiro aplicativo desenvolvido com o framework Angular. 
-Para desenvolvimento desse APP tomei como base os cursos disponíveis na Digital Inovation One.
+Este Ã© meu primeiro aplicativo desenvolvido com o framework Angular. 
+Para desenvolvimento desse APP tomei como base os cursos disponÃ­veis na Digital Inovation One.
 
-Abaixo estão alguns conceitos aplicados:
-* Instalação do framework Bootstrap
-* Criação de componentes
-* Uso de Interpolação
+Abaixo estÃ£o alguns conceitos aplicados:
+* InstalaÃ§Ã£o do framework Bootstrap
+* CriaÃ§Ã£o de componentes
+* Uso de InterpolaÃ§Ã£o
 * Uso de Event Biding
