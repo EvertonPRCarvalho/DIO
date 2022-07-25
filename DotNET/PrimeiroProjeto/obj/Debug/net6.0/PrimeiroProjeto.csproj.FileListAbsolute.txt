@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\refint\PrimeiroProjeto.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll

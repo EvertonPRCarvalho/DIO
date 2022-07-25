@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\bin\Debug\net6.0\StringWriter.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\bin\Debug\net6.0\StringWriter.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\bin\Debug\net6.0\StringWriter.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\bin\Debug\net6.0\StringWriter.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\bin\Debug\net6.0\StringWriter.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\refint\StringWriter.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\StringWriter.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\StringWriter\obj\Debug\net6.0\ref\StringWriter.dll

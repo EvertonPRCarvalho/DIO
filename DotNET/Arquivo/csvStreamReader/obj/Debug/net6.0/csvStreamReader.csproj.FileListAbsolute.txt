@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\bin\Debug\net6.0\csvStreamReader.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\bin\Debug\net6.0\csvStreamReader.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\bin\Debug\net6.0\csvStreamReader.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\bin\Debug\net6.0\csvStreamReader.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\bin\Debug\net6.0\csvStreamReader.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\refint\csvStreamReader.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\csvStreamReader.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\csvStreamReader\obj\Debug\net6.0\ref\csvStreamReader.dll

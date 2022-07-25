@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\bin\Debug\net6.0\LerDiretorio.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\bin\Debug\net6.0\LerDiretorio.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\bin\Debug\net6.0\LerDiretorio.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\bin\Debug\net6.0\LerDiretorio.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\bin\Debug\net6.0\LerDiretorio.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\refint\LerDiretorio.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\LerDiretorio.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\LerDiretorio\obj\Debug\net6.0\ref\LerDiretorio.dll

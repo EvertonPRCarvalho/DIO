@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\bin\Debug\net6.0\Algoritmos_de_Ordenacao.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\bin\Debug\net6.0\Algoritmos_de_Ordenacao.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\bin\Debug\net6.0\Algoritmos_de_Ordenacao.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\bin\Debug\net6.0\Algoritmos_de_Ordenacao.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\bin\Debug\net6.0\Algoritmos_de_Ordenacao.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\refint\Algoritmos_de_Ordenacao.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\Algoritmos_de_Ordenacao.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Algoritmos_de_Ordenacao\obj\Debug\net6.0\ref\Algoritmos_de_Ordenacao.dll

@@ -1,0 +1,17 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CopyComplete
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\refint\ProjetoCsvHelper.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\Arquivo\ProjetoCsvHelper\obj\Debug\net6.0\ref\ProjetoCsvHelper.dll

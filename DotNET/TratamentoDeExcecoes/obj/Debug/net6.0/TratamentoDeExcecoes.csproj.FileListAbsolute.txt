@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\bin\Debug\net6.0\TratamentoDeExcecoes.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\refint\TratamentoDeExcecoes.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\TratamentoDeExcecoes.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\DotNET\TratamentoDeExcecoes\obj\Debug\net6.0\ref\TratamentoDeExcecoes.dll

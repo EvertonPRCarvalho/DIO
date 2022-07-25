@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iKYgtFxqVDduUXwEKwH6gDfl4QgfC46V2bVYLuM/XS3jM8mPVbbR1OXG5bIjhax93GZVgQsvGmhes1spm4m8w==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\DIO\\Bootcamp Unimed\\project-flexbox-dio\\flex-projeto\\DotNET\\Arquivo\\ProjetoCsvHelper\\ProjetoCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evert\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
