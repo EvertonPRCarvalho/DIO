@@ -38,14 +38,14 @@ Defesas
 
         [Espada Mortal     - Contra-ataque 1]
 ### BATALHAR
-Ivon :mage_man:    Mago       HP [==========]   Level 2
+Ivon :mage_man:    Mago       HP [oooooooooo]   Level 2
 
 Ataque 
         [Magia Congelante  - Dano 2]
 
 :space_invader::dash::snowflake:
 
-Strar :guardsman:  Guerreiro  HP [=========  ]  Level 1
+Strar :guardsman:  Guerreiro  HP [ooooooooo-]  Level 1
 
 Defesa 
         [Magia Congelante  - Contra-ataque 1]
