@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelperExemplo.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelperExemplo.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelperExemplo.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelperExemplo.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelperExemplo.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\refint\FileHelperExemplo.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelperExemplo.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\ref\FileHelperExemplo.dll

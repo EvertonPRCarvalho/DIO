@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\bin\Debug\net6.0\Polimorfismo.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\bin\Debug\net6.0\Polimorfismo.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\bin\Debug\net6.0\Polimorfismo.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\bin\Debug\net6.0\Polimorfismo.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\refint\Polimorfismo.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\Polimorfismo\obj\Debug\net6.0\ref\Polimorfismo.dll

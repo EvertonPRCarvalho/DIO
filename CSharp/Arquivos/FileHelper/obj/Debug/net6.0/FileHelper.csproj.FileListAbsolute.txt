@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelper.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelper.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelper.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelper.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\bin\Debug\net6.0\FileHelper.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\refint\FileHelper.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\FileHelper.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\Arquivos\FileHelper\obj\Debug\net6.0\ref\FileHelper.dll

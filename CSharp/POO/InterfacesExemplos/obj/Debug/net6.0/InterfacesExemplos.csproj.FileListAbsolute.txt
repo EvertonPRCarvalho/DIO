@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\bin\Debug\net6.0\InterfacesExemplos.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\bin\Debug\net6.0\InterfacesExemplos.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\bin\Debug\net6.0\InterfacesExemplos.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\bin\Debug\net6.0\InterfacesExemplos.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\bin\Debug\net6.0\InterfacesExemplos.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\refint\InterfacesExemplos.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\InterfacesExemplos.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\InterfacesExemplos\obj\Debug\net6.0\ref\InterfacesExemplos.dll

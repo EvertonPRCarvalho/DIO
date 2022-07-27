@@ -1,0 +1,15 @@
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\bin\Debug\net6.0\ClasseSelada.exe
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\bin\Debug\net6.0\ClasseSelada.deps.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\bin\Debug\net6.0\ClasseSelada.runtimeconfig.json
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\bin\Debug\net6.0\ClasseSelada.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\bin\Debug\net6.0\ClasseSelada.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.csproj.AssemblyReference.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.AssemblyInfoInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.AssemblyInfo.cs
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.csproj.CoreCompileInputs.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\refint\ClasseSelada.dll
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.pdb
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ClasseSelada.genruntimeconfig.cache
+D:\Estudos\DIO\Bootcamp Unimed\project-flexbox-dio\flex-projeto\CSharp\POO\ClasseSelada\obj\Debug\net6.0\ref\ClasseSelada.dll
