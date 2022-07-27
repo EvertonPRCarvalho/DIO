@@ -67,5 +67,9 @@ namespace RPG.Models
         {
             this.Hp += hp;
         }
+        public virtual void Jargao()
+        {
+          System.Console.WriteLine("É prudente manter-se calado.");  
+        }
     }
 }
