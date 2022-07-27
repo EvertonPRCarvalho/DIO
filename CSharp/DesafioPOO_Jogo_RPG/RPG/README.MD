@@ -14,34 +14,40 @@ Tanto os ataques quanto os contra-ataques são habilidades particulares de cada 
 ### PLAYER 01
 Ivon :mage_man: | Mago | HP [==========] | Level 2
 
-Ataques [Magia Congelante  - Dano 2]
+Ataques 
+        [Magia Congelante  - Dano 2]
 
         [Flecha Mágica     - Dano 1]
 
         [Machado Cinzento  - Dano 2]
 
-Defesas [Flecha Flamejante - Contra-ataque 1]
+Defesas 
+        [Flecha Flamejante - Contra-ataque 1]
 
         [Espada Mortal     - Contra-ataque 2]
 ### PLAYER 02
 Strar :guardsman:| Guerreiro | HP [==========] | Level 1
 
-Ataques [Espada Mortal     - Dano 1]
+Ataques 
+        [Espada Mortal     - Dano 1]
 
         [Machado de Bronze - Dano 1]
         
-Defesas [Magia Congelante  - Contra-ataque 1]
+Defesas 
+        [Magia Congelante  - Contra-ataque 1]
 
         [Espada Mortal     - Contra-ataque 1]
 ### BATALHAR
 Ivon :mage_man: | Mago | HP [==========] | Level 2
 
-Ataque [Magia Congelante  - Dano 2]
+Ataque 
+        [Magia Congelante  - Dano 2]
 
 :space_invader::dash::snowflake:
 
 Strar :guardsman:| Guerreiro | HP [========= ] | Level 1
 
-Defesa [Magia Congelante  - Contra-ataque 1]
+Defesa 
+        [Magia Congelante  - Contra-ataque 1]
 
 :guardsman::anger:
