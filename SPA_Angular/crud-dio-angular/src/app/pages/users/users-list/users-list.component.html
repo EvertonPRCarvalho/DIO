@@ -21,8 +21,8 @@
           <th>{{ user.sobrenome }}</th>
           <th>{{ user.idade }}</th>
           <th>{{ user.profissao }}</th>
-          <td><button class="btn btn-primary">Editar</button></td>
-          <td><button class="btn btn-danger">Excluir</button></td>
+          <td><button class="btn btn-primary" [routerLink]="['/form',user.id]">Editar</button></td>
+          <td><button class="btn btn-danger" (click)="deleteUser(user.id)">Excluir</button></td>
           <td></td>
         </tr>
       </tbody>
