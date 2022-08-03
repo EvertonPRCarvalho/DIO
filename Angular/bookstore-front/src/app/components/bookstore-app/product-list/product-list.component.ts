@@ -18,7 +18,7 @@ export class ProductListComponent implements OnInit {
   ngOnInit(): void {/*Quando ele iniciar, o que quero que aconteça? Esta pergunta é respondida aqui.*/
     this.livros = this.bookService.getBook().subscribe((data => {
       this.livros = data;
-      console.log(this.livros);
+      this.livros = this.livros['books'];
     }))
   }
 

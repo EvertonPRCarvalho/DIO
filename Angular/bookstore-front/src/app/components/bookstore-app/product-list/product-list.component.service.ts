@@ -13,7 +13,6 @@ export class BookService
   }
 
   constructor(private http:HttpClient){}
-
   getBook(){
     return this.http.get(this.url);
   }
